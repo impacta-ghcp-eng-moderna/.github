@@ -6,13 +6,13 @@ O objetivo é servir como base para o treinamento, com uma etapa inicial de prep
 
 ## Índice dos repositórios do curso
 
-- [00-pre-work](https://github.com/impacta-ghcp-eng-moderna/00-pre-work) — aula teste de preparação
-- [01-desenvolvimento-de-codigo-com-github-copilot](#) — ainda não disponível
-- [02-engenharia-de-prompts-e-personalizacao-do-github-copilot](#) — ainda não disponível
-- [03-github-copilot-no-ciclo-de-vida-das-aplicacoes](#) — ainda não disponível
-- [04-testing-refatoracao-documentacao-e-devops](#) — ainda não disponível
+- [Módulo 00 - Pre-work](https://github.com/impacta-ghcp-eng-moderna/00-pre-work) — aula teste de preparação
+- [Módulo 01 - Do-requisito à aplicação: Desenvolvimento assistido pelo Copilot](https://github.com/impacta-ghcp-eng-moderna/01-desenvolvimento-assistido)
+- [Módulo 02 - Contexto, prompts, personalização, privacidade e uso consciente](#) — ainda não disponível
+- [Módulo 03 - Copilot e agentes no ciclo de vida das aplicações](#) — ainda não disponível
+- [Módulo 04 - Qualidade, avaliação, documentação e operação responsável](#) — ainda não disponível
 
-> Importante: os repositórios das aulas 01 a 04 ainda não foram publicados e serão disponibilizados parcialmente conforme o andamento do treinamento.
+> Importante: os repositórios das aulas 02 a 04 ainda não foram publicados e serão disponibilizados parcialmente conforme o andamento do treinamento.
 
 ## Ementa
 
